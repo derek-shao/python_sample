@@ -18,7 +18,7 @@ def main():
         print("8. show the count of  students in a group")
         print("9. Exit")
         choice = input("Choose an option: ")
-
+            #dsoifj
         if choice == "1":
             group = input("Enter group name: ")
             name = input("Enter student name: ")
