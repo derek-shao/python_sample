@@ -30,6 +30,8 @@ def main():
                 scores[subject] = score
             add_student(group, name, scores)
 
+            #sdkfljkds
+
         elif choice == "2":
             group = input("Enter group name (leave empty for all): ").strip()
             show_scores(group if group else None)
